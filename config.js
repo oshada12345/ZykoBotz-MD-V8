@@ -63,17 +63,17 @@ global.ppulsa2 = '0831-3332-9293'
 global.psaweria = 'https://saweria.co/Zykomd'
 
 /*============== NOMOR ==============*/
-global.nomorbot = '6281269842230'
-global.nomorown = '6283133329293'
-global.namebot = 'ZYKOBOTZ MD'
-global.nameown = 'ZYKO MD'
+global.nomorbot = '94703698781'
+global.nomorown = '94703698781'
+global.namebot = 'oshada MD'
+global.nameown = 'oshada MD'
 
 /*============== Github Thanks To ==============*/
 global.namagithub = 'ZykoBotz-MD'
 global.linkgithub = sgh
 
 /*============== CREATE PANEL ==============*/
-global.domain = 'https://botzmd.mystore.icu'
+global.domain = 'https://botzmd.94703698781.icu'
 global.apikey = 'ptla_eUnXMYgnR8VRBqWPaq87r3vzd1XN80Rb9AFXp6aCWkU' 
 global.c_apikey = 'ptlc_gfzzO8m0DzckMWKrjYLkZKue8y5cx0DMvXWACiqhCRi'
 
@@ -83,7 +83,7 @@ global.lolkey = pickRandom(["e54205a4ca2caa368cc067bb", "8e66d0934cf741bfd2182c1
 
 /*============== STAFF ==============*/
 global.owner = [
-  ['6283133329293', 'ZYKO MD', true],
+  ['94703698781', 'oshada MD', true],
   ['-', 'ISI KALAU ADA', true],
   ['-', 'ISI KALAU ADA', true],
   ['-', 'ISI KALAU ADA', true],
@@ -130,14 +130,14 @@ global.APIKeys = {
 // Kata APIKEY itu isi dengan apikey lu sendiri, dengan beli ke website itu
 
 /*============== WATERMARK ==============*/
-global.wm = '                「 ZYKOBOTZ MD 」'
-global.wm2 = '꒷︶꒷꒥꒷ ‧₊˚ ꒰ฅ˘ZYKOBOTZ MD ˘ฅ ꒱ ‧₊˚꒷︶꒷꒥꒷'
-global.wm3 = "⫹⫺ ZYKOBOTZ MD"
+global.wm = '                「 OShada MD 」'
+global.wm2 = '꒷︶꒷꒥꒷ ‧₊˚ ꒰ฅ˘OShada MD ˘ฅ ꒱ ‧₊˚꒷︶꒷꒥꒷'
+global.wm3 = "⫹⫺ OShada MD"
 global.botdate = `⫹⫺ DATE: ${week} ${date}\n⫹⫺ TIME: ${wktuwib}`
 global.bottime = `T I M E : ${wktuwib}`
-global.titlebot = `⫹⫺ WhatsApp Bot | By ZYKO MD`
+global.titlebot = `⫹⫺ WhatsApp Bot | By OShada MD`
 global.packname = '☂︎ ᴄʀᴇᴀᴛᴇᴅ ʙʏ'
-global.author = "ZYKOBOTZ MD 乂 ZYKO MD"
+global.author = "OShada MD 乂 OShada MD"
 
 /*Fake*/
 global.fsizedoc = SizeDoc()
